@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/forntend-cas/static/css/main.073c9b0a.css",
-    "main.js": "/forntend-cas/static/js/main.00d8ff02.js",
-    "static/js/787.de17bd32.chunk.js": "/forntend-cas/static/js/787.de17bd32.chunk.js",
-    "index.html": "/forntend-cas/index.html",
-    "main.073c9b0a.css.map": "/forntend-cas/static/css/main.073c9b0a.css.map",
-    "main.00d8ff02.js.map": "/forntend-cas/static/js/main.00d8ff02.js.map",
-    "787.de17bd32.chunk.js.map": "/forntend-cas/static/js/787.de17bd32.chunk.js.map"
+    "main.css": "/frontend-cas/static/css/main.073c9b0a.css",
+    "main.js": "/frontend-cas/static/js/main.13735a68.js",
+    "static/js/787.de17bd32.chunk.js": "/frontend-cas/static/js/787.de17bd32.chunk.js",
+    "index.html": "/frontend-cas/index.html",
+    "main.073c9b0a.css.map": "/frontend-cas/static/css/main.073c9b0a.css.map",
+    "main.13735a68.js.map": "/frontend-cas/static/js/main.13735a68.js.map",
+    "787.de17bd32.chunk.js.map": "/frontend-cas/static/js/787.de17bd32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.00d8ff02.js"
+    "static/js/main.13735a68.js"
   ]
 }
